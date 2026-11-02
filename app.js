@@ -121,7 +121,7 @@ const I18N = {
     noInfo: 'Інфармацыя пра герб пакуль не дададзена.', imageMissing: 'Выява герба недаступная',
     loading: 'Загрузка даных…', loadError: 'Не ўдалося загрузіць даныя. Праверце кансоль.',
     resetView: 'Скінуць выгляд', boundariesNA: 'Межы недаступныя',
-    legend: 'Легенда', legendMulti: 'Некалькі катэгорый', langGroup: 'Мова',
+    legend: 'Ключ', legendMulti: 'Некалькі катэгорый', langGroup: 'Мова',
     filters: 'Фільтры', filtersTitle: 'Што паказаць на карце',
     done: 'Гатова', close: 'Закрыць', clearSearch: 'Ачысціць пошук'
   }
